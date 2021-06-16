@@ -4,8 +4,8 @@ from urllib.parse import urlencode
 from urllib.parse import urljoin
 import re
 import json
-queries = ['tshirt for men']    ##Enter keywords here ['keyword1', 'keyword2', 'etc']
-API = ''                        ##Insert Scraperapi API key here. Signup here for free trial with 5,000 requests: https://www.scraperapi.com/signup
+queries = ['iron on patches, patches']    ##Enter keywords here ['keyword1', 'keyword2', 'etc']
+API = 'b0c29ad51b08e3c5e338c3fab7c94cb0'                        ##Insert Scraperapi API key here. Signup here for free trial with 5,000 requests: https://www.scraperapi.com/signup
 
 
 def get_url(url):
